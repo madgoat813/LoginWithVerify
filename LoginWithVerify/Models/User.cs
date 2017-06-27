@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LoginWithVerify
+namespace LoginWithVerify.Models
 {
     using System;
     using System.Collections.Generic;
